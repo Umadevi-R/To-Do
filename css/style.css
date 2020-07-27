@@ -1,0 +1,23 @@
+body{
+	text-align:center;
+}
+
+ul{
+	display:block;
+}
+
+.controls{
+	float:right;
+}
+
+#stats p{
+	color:red;
+}
+h2{
+	color:teal;
+	font-family:serif;
+}
+*{
+	font-family:monospace;
+	font-size:1.25rem;
+}
